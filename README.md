@@ -7,9 +7,9 @@
 
 </div>
 
-I’m Hong Ting Tsang (曾康庭, Dennis), a PhD student at [HKUST](https://hkust.edu.hk), working under the guidance of Professor [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research spans enterprise data agents, agent memory, and knowledge graphs. I completed my MPhil and hold a Bachelor of Engineering in [Computer Science](https://cse.hkust.edu.hk) from HKUST.
+I’m Hong Ting Tsang (曾康庭, Dennis), a PhD student at [HKUST](https://hkust.edu.hk), working under the guidance of Professor [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research spans enterprise data agents, agent memory, knowledge graphs, and large language models. I completed my MPhil and hold a Bachelor of Engineering in [Computer Science](https://cse.hkust.edu.hk) from HKUST.
 
-I work on enterprise data agents and agent memory, along with large language models, knowledge bases, and data mining. View my GitHub to explore those projects.
+I work with [HKUST-KnowComp](https://github.com/HKUST-KnowComp) on knowledge graph construction and agent memory. I have been a teaching assistant at HKUST for COMP 4222, Machine Learning with Structured Data, and COMP 4332, Big Data Mining and Management. In my spare time, I write reading notes. View my [homepage](https://gzone0111.github.io/) to explore the papers and notes.
 
 ## Research Interests
 
@@ -20,6 +20,12 @@ I work on enterprise data agents and agent memory, along with large language mod
 
 ## Projects
 
-- **[MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents](https://arxiv.org/abs/2610.29249)** — [Code](https://github.com/HKUST-KnowComp/MOSAIC), [data](https://huggingface.co/datasets/gzone0111/MOSAIC), [website](https://hkust-knowcomp.github.io/MOSAIC/)
-- **[AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction](https://arxiv.org/abs/2510.15339)** — ACL 2026 (Main). [Code](https://github.com/HKUST-KnowComp/AutoGraph-R1)
-- **[AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora](https://arxiv.org/abs/2505.23628)** — ACL 2026 (Main, Oral). [Code](https://github.com/HKUST-KnowComp/AutoSchemaKG)
+- **[MOSAIC](https://github.com/HKUST-KnowComp/MOSAIC)** — [arXiv](https://arxiv.org/abs/2610.29249) omni-modal benchmark for long-term memory and cross-modal reasoning in conversational agents. [Data](https://huggingface.co/datasets/gzone0111/MOSAIC), [website](https://hkust-knowcomp.github.io/MOSAIC/)
+- **[AutoGraph-R1](https://github.com/HKUST-KnowComp/AutoGraph-R1)** — [ACL 2026 (Main)](https://arxiv.org/abs/2510.15339). End-to-end reinforcement learning for knowledge graph construction
+- **[AutoSchemaKG](https://github.com/HKUST-KnowComp/AutoSchemaKG)** — [ACL 2026 (Main, Oral)](https://arxiv.org/abs/2505.23628). Autonomous knowledge graph construction through dynamic schema induction
+
+## Reading
+
+• [The Society of Mind](https://gzone0111.github.io/posts/2026/04/the-society-of-mind/)
+• [GoF Design Patterns](https://gzone0111.github.io/posts/2026/04/gof-design-patterns/)
+• [Hamming — You and Your Research](https://gzone0111.github.io/posts/2026/03/hamming-you-and-your-research/)
