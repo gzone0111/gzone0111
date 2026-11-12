@@ -1,85 +1,27 @@
-# Hong Ting Tsang
+I’m Hong Ting Tsang (曾康庭, Dennis), a PhD student in Computer Science at [HKUST](https://hkust.edu.hk), working with [HKUST KnowComp](https://github.com/HKUST-KnowComp) on enterprise data agents, agent memory, and knowledge graphs, advised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I completed my MPhil and a BEng in [Computer Science](https://cse.hkust.edu.hk) at HKUST. Read [my site](https://gzone0111.github.io/), see [Google Scholar](https://scholar.google.com/citations?user=Bpk3L20AAAAJ) and [ORCID](https://orcid.org/0009-0004-3045-2566), or find me on [LinkedIn](https://www.linkedin.com/in/hong-ting-tsang-dennis) and [X](https://x.com/gzone0111).
 
-曾康庭, Dennis
+<table><tr><td valign="top" width="50%">
 
-<table>
-<tr>
-<td width="110"><strong>Now</strong></td>
-<td>First-year PhD student in Computer Science at <a href="https://hkust.edu.hk">HKUST</a></td>
-</tr>
-<tr>
-<td><strong>Group</strong></td>
-<td><a href="https://github.com/HKUST-KnowComp">HKUST KnowComp</a>, advised by <a href="https://www.cse.ust.hk/~yqsong/">Yangqiu Song</a></td>
-</tr>
-<tr>
-<td><strong>Before</strong></td>
-<td>MPhil and BEng in <a href="https://cse.hkust.edu.hk">Computer Science</a>, HKUST</td>
-</tr>
-<tr>
-<td><strong>Teaching</strong></td>
-<td>Teaching assistant for COMP 4222, Machine Learning with Structured Data, and COMP 4332, Big Data Mining and Management</td>
-</tr>
-<tr>
-<td><strong>Links</strong></td>
-<td>
-<a href="https://gzone0111.github.io/">Website</a><br>
-<a href="https://scholar.google.com/citations?user=Bpk3L20AAAAJ">Google Scholar</a><br>
-<a href="https://orcid.org/0009-0004-3045-2566">ORCID</a><br>
-<a href="https://www.linkedin.com/in/hong-ting-tsang-dennis">LinkedIn</a><br>
-<a href="https://x.com/gzone0111">X</a>
-</td>
-</tr>
-</table>
+### Papers
+[MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents](https://arxiv.org/abs/2610.29249) - 2026-10-21
 
-I work on enterprise data agents and agent memory, along with large language models, knowledge bases, and data mining.
+[AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction](https://arxiv.org/abs/2510.15339) - 2026-08-03
 
-## Directions
+[AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora](https://arxiv.org/abs/2505.23628) - 2026-08-02
 
-**Enterprise data agents.** Agent memory, LLM agents, and their applications.
+[AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM](https://openreview.net/forum?id=6i1jVAYbHs) - 2026-04-27
 
-**Knowledge bases.** Knowledge graph construction and reasoning.
+[NewtonBench: Benchmarking Generalizable Scientific Law Discovery in LLM Agents](https://arxiv.org/abs/2510.07172) - 2026-04-27
 
-**Large language models.** Large-scale LLM applications over big data.
+More on [my site](https://gzone0111.github.io/publications/)
+</td><td valign="top" width="50%">
 
-**Data mining.** Methods for structured and unstructured data.
+### Notes
+[The Society of Mind](https://gzone0111.github.io/posts/2026/04/the-society-of-mind/) - 2026-04-10
 
-## Papers
+[GoF Design Patterns](https://gzone0111.github.io/posts/2026/04/gof-design-patterns/) - 2026-04-10
 
-### MOSAIC
+[Hamming - You and Your Research](https://gzone0111.github.io/posts/2026/03/hamming-you-and-your-research/) - 2026-03-07
 
-An omni-modal benchmark for long-term memory and cross-modal reasoning in conversational agents. arXiv, 2026.
-
-- [Paper](https://arxiv.org/abs/2610.29249)
-- [Code](https://github.com/HKUST-KnowComp/MOSAIC)
-- [Data](https://huggingface.co/datasets/gzone0111/MOSAIC)
-- [Website](https://hkust-knowcomp.github.io/MOSAIC/)
-
-### AutoGraph-R1
-
-End-to-end reinforcement learning for knowledge graph construction. ACL 2026, Main.
-
-- [Paper](https://arxiv.org/abs/2510.15339)
-- [Code](https://github.com/HKUST-KnowComp/AutoGraph-R1)
-
-### AutoSchemaKG
-
-Autonomous knowledge graph construction through dynamic schema induction from web-scale corpora. ACL 2026, Main, Oral. Codebase maintainer and core contributor.
-
-- [Paper](https://arxiv.org/abs/2505.23628)
-- [Code](https://github.com/HKUST-KnowComp/AutoSchemaKG)
-
-## Notes
-
-Reading notes from the [homepage](https://gzone0111.github.io/).
-
-### The Society of Mind
-
-[Note](https://gzone0111.github.io/posts/2026/04/the-society-of-mind/)
-
-### GoF Design Patterns
-
-[Note](https://gzone0111.github.io/posts/2026/04/gof-design-patterns/)
-
-### Hamming, You and Your Research
-
-[Note](https://gzone0111.github.io/posts/2026/03/hamming-you-and-your-research/)
+More on [my site](https://gzone0111.github.io/blog/)
+</td></tr></table>
